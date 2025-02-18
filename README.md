@@ -16,7 +16,7 @@ The algorithm uses the generalized Gauss method for calculating the determinant.
 ## multi_theread
 
 1. Generate the required matrix using the `generate.go`
-2. `go run kramer_single_thread.go`
+2. `go run kramer_multi_thread.go`
 
 
 
